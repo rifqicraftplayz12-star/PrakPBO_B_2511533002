@@ -35,5 +35,5 @@ public class RekeningGiro extends Rekening{
 	//Getter khusus giro
 	public double getBatasOverdraft() {
 		return batasOverdraft;
-	}
+	}//
 }

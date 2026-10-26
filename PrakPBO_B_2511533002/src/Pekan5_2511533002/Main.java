@@ -178,6 +178,6 @@ public class Main {
 				System.out.println("Pilihan tidak valid!");
 		}
 	}
-		input.close();
+		input.close();//
 	}
 }

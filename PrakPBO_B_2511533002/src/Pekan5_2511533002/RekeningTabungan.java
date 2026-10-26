@@ -23,5 +23,5 @@ public class RekeningTabungan extends Rekening{
 		riwayatTransaksi.add(new Transaksi(idTrx, "Bunga", nominalBunga));
 		
 		System.out.println("Bunga " + sukuBunga + "% berhasil di tambahkan: Rp" + nominalBunga);
-	}
+	}//
 }

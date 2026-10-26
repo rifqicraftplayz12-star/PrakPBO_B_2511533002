@@ -19,5 +19,5 @@ public class Transaksi {
 	
 	public void cetakDetail() {
 		System.out.println("ID : " + idTransaksi + " | Jenis : " + jenis + " | Nominal : Rp" + nominal);
-	}
+	}//
 }

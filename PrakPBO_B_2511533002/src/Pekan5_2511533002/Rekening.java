@@ -68,7 +68,7 @@ public class Rekening {
 			
 			System.out.println("Tarik tunai Rp" + nominal + " berhasil. Sisa saldo: Rp" + saldo);
 			return true; // Transaksi sukses
-		}
+		}//
 	}
 
 	public void transfer(Rekening tujuan, double nominal, String pinInput) {
